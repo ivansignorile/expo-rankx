@@ -1,0 +1,48 @@
+{
+  "common": {
+    "confirm": "CONFIRMER",
+    "authError": "Erreur d'authentification, veuillez vérifier vos identifiants.",
+    "error": "Erreur",
+    "back": "RETOUR",
+    "wallet": "Portefeuille",
+    "price": "Prix numérique :",
+    "addToCart": "AJOUTER AU PANIER"
+  },
+  "onboarding": {
+    "welcome": "Bienvenue en Campanie !",
+    "subtitle": "Sélectionnez votre langue"
+  },
+  "auth": {
+    "title": "Entrez vos identifiants pour vous connecter",
+    "login": "CONNEXION",
+    "register": "INSCRIPTION",
+    "emailAddress": "ADRESSE E-MAIL :",
+    "password": "MOT DE PASSE :",
+    "forgotPassword": "Mot de passe oublié ?",
+    "goOnWithoutLogin": "Continuer sans inscription",
+    "backToLogin": "Retour à la connexion",
+    "recover": "RÉCUPÉRER"
+  },
+  "register": {
+    "title": "Entrez votre e-mail et mot de passe pour vous inscrire",
+    "register": "INSCRIPTION",
+    "emailAddress": "ADRESSE E-MAIL :",
+    "password": "MOT DE PASSE :",
+    "passwordConfirmation": "CONFIRMEZ LE MOT DE PASSE :",
+    "forgotPassword": "Mot de passe oublié ?",
+    "goOnWithoutLogin": "Continuer sans inscription",
+    "passwordDisclaimer": "Le mot de passe doit contenir au moins 8 caractères dont un caractère spécial.",
+    "success": "Vous avez reçu un e-mail de confirmation avec un lien pour activer votre compte."
+  },
+  "recover": {
+    "title": "Entrez l'adresse e-mail que vous avez utilisée pour vous inscrire. Si elle est correcte, vous recevrez un e-mail pour réinitialiser votre mot de passe."
+  },
+  "home": {
+    "allPasses": "Tous les pass",
+    "title": "Le pass touristique dont vous avez besoin pour visiter Naples et la Campanie !",
+    "subtitle": "Le pass pour visiter les sites d'art et de culture de Naples et de toute la région de Campanie, et pour voyager avec les transports publics du consortium Unicocampania, pour les types qui l'incluent."
+  },
+  "pass": {
+    "whatsIncluded": "Ce que comprend le pass :"
+  }
+}

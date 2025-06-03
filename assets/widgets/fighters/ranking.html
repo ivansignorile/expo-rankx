@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, user-scalable=no, maximum-scale=1.0, minimum-scale=1.0"
+    />
+    <title>Document</title>
+    <script async src="https://rankx-widget.netlify.app/index.js"></script>
+    <link rel="stylesheet" href="https://rankx-widget.netlify.app/index.css" />
+   
+       <script>
+        // detect every link click , prevent default and alert the url
+        document.addEventListener('click', function(e){
+            if(e.target.tagName === 'A'){
+                e.preventDefault();
+                window.ReactNativeWebView.postMessage(e.target.href);
+            }
+        });
+    </script>
+  </head>
+  <body>
+    <div class="rankx-widget" data-widget="rank"></div>
+  </body>
+</html>

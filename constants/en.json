@@ -1,0 +1,49 @@
+{
+    "common": {
+      "confirm": "CONFIRM",
+      "authError": "Authentication error, please double-check your credentials.",
+      "error": "Error",
+      "back": "BACK",
+      "wallet": "Wallet",
+      "price": "Digital price:",
+      "addToCart": "ADD TO CART"
+    },
+    "onboarding": {
+      "welcome": "Welcome to Campania!",
+      "subtitle": "Select your language"
+    },
+    "auth": {
+      "title": "Enter your credentials to log in",
+      "login": "LOGIN",
+      "register": "REGISTER",
+      "emailAddress": "EMAIL ADDRESS:",
+      "password": "PASSWORD:",
+      "forgotPassword": "Forgot your password?",
+      "goOnWithoutLogin": "Continue without signing up",
+      "backToLogin": "Back to login",
+      "recover": "RECOVER"
+    },
+    "register": {
+      "title": "Enter your email and password to sign up",
+      "register": "REGISTER",
+      "emailAddress": "EMAIL ADDRESS:",
+      "password": "PASSWORD:",
+      "passwordConfirmation": "CONFIRM PASSWORD:",
+      "forgotPassword": "Forgot your password?",
+      "goOnWithoutLogin": "Continue without signing up",
+      "passwordDisclaimer": "Password must be at least 8 characters long and contain at least one special character.",
+      "success": "You have received a confirmation email with a link to activate your account."
+    },
+    "recover": {
+      "title": "Enter the email address you used to sign up. If it’s correct, you will receive an email to reset your password."
+    },
+    "home": {
+      "allPasses": "All passes",
+      "title": "The tourist pass you need to visit Naples and Campania!",
+      "subtitle": "The pass to visit the art and cultural sites of Naples and the entire Campania region, and to travel with Unicocampania public transport, for the types that include it."
+    },
+    "pass": {
+      "whatsIncluded": "What's included in the pass:"
+    }
+  }
+  

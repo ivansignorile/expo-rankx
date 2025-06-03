@@ -1,0 +1,69 @@
+{
+  "common": {
+    "confirm": "CONFERMA",
+    "authError": "Errore di autenticazione, ti invitiamo a ricontrollare le credenziali inserite.",
+    "error": "Errore",
+    "back": "INDIETRO",
+    "wallet": "Wallet",
+    "price": "Prezzo digitale:",
+    "addToCart": "AGGIUNGI AL CARRELLO"
+  },
+  "onboarding": {
+    "welcome": "Benvenuto su Rankx!",
+    "subtitle": "Seleziona la tua lingua"
+  },
+  "auth": {
+    "title": "Inserisci le tue credenziali per accedere",
+    "login": "ACCEDI",
+    "register": "REGISTRATI",
+    "emailAddress": "INDIRIZZO MAIL:",
+    "password": "PASSWORD:",
+    "forgotPassword": "Hai dimenticato la password?",
+    "goOnWithoutLogin": "Prosegui senza registrazione",
+    "backToLogin": "Torna al login",
+    "recover": "RECUPERA"
+  },
+  "register": {
+    "title": "Inserisci e-mail e password per registrarti",
+    "register": "REGISTRATI",
+    "emailAddress": "INDIRIZZO MAIL:",
+    "password": "PASSWORD:",
+    "passwordConfirmation": "CONFERMA PASSWORD:",
+    "forgotPassword": "Hai dimenticato la password?",
+    "goOnWithoutLogin": "Prosegui senza registrazione",
+    "passwordDisclaimer": "La password deve contenere minimo 8 caratteri di cui almeno un carattere speciale.",
+    "success": "Hai ricevuto una mail di conferma con un link per attivare il tuo account."
+  },
+  "recover": {
+    "title": "Inserisci il tuo indirizzo di posta elettronica con cui ti sei registrato. Se l’indirizzo è corretto  riceverai una e-mail per reimpostare la password."
+  },
+  "home": {
+    "allPasses": "Prossimi match",
+    "title": "Scopri i prossimi incontri su RankX",
+    "subtitle": "Gli incontri del nostro prossimo evento, trovi tutti i dettagli nella sezione eventi dell'app",
+    "visit": "Visita",
+    "discoverPass": "Scopri il pass",
+    "underGallery": "Il pass turistico di cui hai bisogno per visitare Napoli e la Campania!",
+    "currentPromo": "Promo in corso",
+    "atleti": "Atleti",
+    "atletiSub": "Scopri gli atleti del roster di RankX, consulta le statistiche e le informazioni sui match, contattali direttamente dall'app",
+  },
+  "pass": {
+    "whatsIncluded": "Cosa include il pass:",
+    "transports": "Trasporti",
+    "inclusi": "inclusi",
+    "esclusi": "esclusi",
+    "ingressi": "ingressi",
+    "in": "in",
+    "giorni": "giorni",
+    "included_places": "I LUOGHI INCLUSI",
+    "discounted_places": "I LUOGHI IN SCONTO",
+    "no_places": "Non ci sono luoghi inclusi in questo pass"
+  },
+  "places": {
+    "intro": "Luoghi della cultura",
+    "address": "Indirizzo",
+    "openingHours": "Orari di apertura",
+    "contacts": "Contatti",
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "common": {
+    "confirm": "CONFIRMAR",
+    "authError": "Error de autenticación, por favor verifica tus credenciales.",
+    "error": "Error",
+    "back": "VOLVER",
+    "wallet": "Billetera",
+    "price": "Precio digital:",
+    "addToCart": "AÑADIR AL CARRITO"
+  },
+  "onboarding": {
+    "welcome": "¡Bienvenido a Campania!",
+    "subtitle": "Selecciona tu idioma"
+  },
+  "auth": {
+    "title": "Introduce tus credenciales para iniciar sesión",
+    "login": "INICIAR SESIÓN",
+    "register": "REGISTRARSE",
+    "emailAddress": "DIRECCIÓN DE CORREO:",
+    "password": "CONTRASEÑA:",
+    "forgotPassword": "¿Olvidaste tu contraseña?",
+    "goOnWithoutLogin": "Continuar sin registrarse",
+    "backToLogin": "Volver al inicio de sesión",
+    "recover": "RECUPERAR"
+  },
+  "register": {
+    "title": "Introduce tu correo electrónico y una contraseña para registrarte",
+    "register": "REGISTRARSE",
+    "emailAddress": "DIRECCIÓN DE CORREO:",
+    "password": "CONTRASEÑA:",
+    "passwordConfirmation": "CONFIRMAR CONTRASEÑA:",
+    "forgotPassword": "¿Olvidaste tu contraseña?",
+    "goOnWithoutLogin": "Continuar sin registrarse",
+    "passwordDisclaimer": "La contraseña debe tener al menos 8 caracteres, incluyendo al menos un carácter especial.",
+    "success": "Has recibido un correo electrónico de confirmación con un enlace para activar tu cuenta."
+  },
+  "recover": {
+    "title": "Introduce el correo electrónico con el que te registraste. Si es correcto, recibirás un correo para restablecer tu contraseña."
+  },
+  "home": {
+    "allPasses": "Todos los pases",
+    "title": "¡El pase turístico que necesitas para visitar Nápoles y Campania!",
+    "subtitle": "El pase para visitar los sitios de arte y cultura de Nápoles y toda la región de Campania, y para viajar en transporte público del consorcio Unicocampania, para las modalidades que lo incluyan."
+  },
+  "pass": {
+    "whatsIncluded": "Qué incluye el pase:"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "common": {
+    "confirm": "BESTÄTIGEN",
+    "authError": "Authentifizierungsfehler, bitte überprüfe deine Zugangsdaten.",
+    "error": "Fehler",
+    "back": "ZURÜCK",
+    "wallet": "Wallet",
+    "price": "Digitaler Preis:",
+    "addToCart": "IN DEN WARENKORB"
+  },
+  "onboarding": {
+    "welcome": "Willkommen in Kampanien!",
+    "subtitle": "Wähle deine Sprache"
+  },
+  "auth": {
+    "title": "Gib deine Zugangsdaten ein, um dich anzumelden",
+    "login": "ANMELDEN",
+    "register": "REGISTRIEREN",
+    "emailAddress": "E-MAIL-ADRESSE:",
+    "password": "PASSWORT:",
+    "forgotPassword": "Passwort vergessen?",
+    "goOnWithoutLogin": "Ohne Registrierung fortfahren",
+    "backToLogin": "Zurück zur Anmeldung",
+    "recover": "WIEDERHERSTELLEN"
+  },
+  "register": {
+    "title": "Gib deine E-Mail-Adresse und ein Passwort ein, um dich zu registrieren",
+    "register": "REGISTRIEREN",
+    "emailAddress": "E-MAIL-ADRESSE:",
+    "password": "PASSWORT:",
+    "passwordConfirmation": "PASSWORT BESTÄTIGEN:",
+    "forgotPassword": "Passwort vergessen?",
+    "goOnWithoutLogin": "Ohne Registrierung fortfahren",
+    "passwordDisclaimer": "Das Passwort muss mindestens 8 Zeichen lang sein und mindestens ein Sonderzeichen enthalten.",
+    "success": "Du hast eine Bestätigungs-E-Mail mit einem Link zur Aktivierung deines Kontos erhalten."
+  },
+  "recover": {
+    "title": "Gib die E-Mail-Adresse ein, mit der du dich registriert hast. Wenn sie korrekt ist, erhältst du eine E-Mail zum Zurücksetzen deines Passworts."
+  },
+  "home": {
+    "allPasses": "Alle Pässe",
+    "title": "Der Touristenpass, den du brauchst, um Neapel und Kampanien zu entdecken!",
+    "subtitle": "Der Pass, um Kunst- und Kulturstätten in Neapel und ganz Kampanien zu besuchen und mit den öffentlichen Verkehrsmitteln des Unicocampania-Konsortiums zu reisen – für die Varianten, die es beinhalten."
+  },
+  "pass": {
+    "whatsIncluded": "Was im Pass enthalten ist:"
+  }
+}
